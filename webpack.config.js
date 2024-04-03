@@ -4,7 +4,7 @@ const Dotenv = require('dotenv-webpack');
 const deps = require("./package.json").dependencies;
 module.exports = (_, argv) => ({
   output: {
-    publicPath: "https://main--sage-alpaca-21b47d.netlify.app/",
+    publicPath: "https://a4-studentapp1.netlify.app/",
   },
 
   resolve: {
