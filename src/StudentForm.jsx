@@ -9,7 +9,7 @@ export default function StudentForm() {
                 <h1>
                     Student Form
                 </h1>
-                <p>Please enter your student information below.</p>
+                
                 <form>
                     <table >
                         <tr>
